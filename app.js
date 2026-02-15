@@ -20,27 +20,27 @@ const points = [
         metrics: { dist: 8, time: "0.9 - 1.3h" },
         path: [[39.46, 2.45]]
     },
-    // {
-    //     name: "Port de Sóller",
-    //     coords: [39.7947, 2.6986],
-    //     desc: "Rugged Tramuntana coast and a beautiful circular bay.",
-    //     metrics: { dist: 19, time: "2.1 - 3.2h" },
-    //     path: [[39.65, 2.40]]
-    // },
-    // {
-    //     name: "Cala Agulla",
-    //     coords: [39.7214, 3.4517],
-    //     desc: "Untouched turquoise wilderness on the northeast coast.",
-    //     metrics: { dist: 43, time: "4.7 - 7.1h" },
-    //     path: [[39.96, 3.21], [39.85, 3.40]]
-    // },
-    // {
-    //     name: "Porto Colom",
-    //     coords: [39.4239, 3.2647],
-    //     desc: "Authentic Mediterranean charm and calm natural harbor.",
-    //     metrics: { dist: 23, time: "2.5 - 3.8h" },
-    //     path: [[39.60, 3.50], [39.50, 3.40]]
-    // },
+    {
+        name: "Port de Sóller",
+        coords: [39.7947, 2.6986],
+        desc: "Rugged Tramuntana coast and a beautiful circular bay.",
+        metrics: { dist: 19, time: "2.1 - 3.2h" },
+        path: [[39.65, 2.40]]
+    },
+    {
+        name: "Cala Agulla",
+        coords: [39.7214, 3.4517],
+        desc: "Untouched turquoise wilderness on the northeast coast.",
+        metrics: { dist: 43, time: "4.7 - 7.1h" },
+        path: [[39.96, 3.21], [39.85, 3.40]]
+    },
+    {
+        name: "Porto Colom",
+        coords: [39.4239, 3.2647],
+        desc: "Authentic Mediterranean charm and calm natural harbor.",
+        metrics: { dist: 23, time: "2.5 - 3.8h" },
+        path: [[39.60, 3.50], [39.50, 3.40]]
+    },
     {
         name: "Cabrera National Park",
         coords: [39.1450, 2.9300],
